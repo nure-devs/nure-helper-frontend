@@ -101,6 +101,35 @@ font-style: italic;
 .linehace{
   line-height: 50px;
 }
+table{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:yellow;
+  margin-top: 0%;
+}
+header{
+  background-color: blue;
+  height: 100%;
+  margin-top: 0%;
+}
+.buttons{
+  text-align: center;
+}
 main{
-  background-color: rgb(123, 242, 86);
+  background-color:yellow;
+}
+.main-text{
+  
+  margin-right: 25%;
+  background-color: whitesmoke;
+  text-align: center;
+}
+.nav{
+ 
+}
+footer{
+  text-align: center;
+  background-color:yellow;
 }
